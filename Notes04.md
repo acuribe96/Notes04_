@@ -79,7 +79,7 @@ CIT114 - Notes04
 - full access to all resources
 - recommended to not use a day-to-day basis
 
-* Securing a new AWS account*
+*Securing a new AWS account*
 
 - Step 1: stop using the account root user
 - Step 2: enable MFA
