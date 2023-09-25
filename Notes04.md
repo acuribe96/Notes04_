@@ -115,17 +115,31 @@ CIT114 - Note04
   *Encryption data in transit*
 
   - data moving across a network
+ 
+  *Compliance programs*
+
+  - certifications and attestations
+  - laws, regulation, and policy
+  - alignments and frameworks
+
+  *AWS Config*
+
+  - assess, audit, and evaluate the configurations of AWS resources
+
+ *AWS Artifact*
+
+ - resource for compliance-related information
 
 
 **Question 2**
 
 > Even if an attacker gains access to your data they cannot make sense of it.
 
--
+- Goes to show how much security Amazon implents and protects their customers.
 
 > Out of the box access is no access until you explicity allow it via a policy
 
--
+- As said earlier Amazon implents great security and is strict on rules. If a policy wasn't made by the controller, no user can access it.
 
 **Question 4**
 - Will Amazon ever have full control of your system in an EC2?
